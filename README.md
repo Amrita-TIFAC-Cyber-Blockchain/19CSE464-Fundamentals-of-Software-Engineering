@@ -1,2 +1,61 @@
-# Fundamentals-of-Software-Engineering
-19CSE464 - Fundamentals of Software Engineering - 6th Sem - B.E. (ECE) - ASE,CBE
+# 19CSE464 - Fundamentals of Software Engineering
+
+### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
+
+### :books: Course Outcome
+
+| CO#  | CO Description |
+|------|----------------|
+| CO1 | Understand the principles of software engineering |
+| CO2 | Understand various software process models |
+| CO3 | Apply the appropriate design methodology for a real world application |
+| CO4 | Evaluate a system developed for real-world applications in Agile Mode |
+
+### :watch: Course Plan 
+
+| Unit # | Lecture No. | Topic | Methodology | No. of Hours |
+|:------:|:-----------:|-------|-------------|:------------:|
+|   #    |      0      | Introduction to Course and Lab | Presentation/Oral | 1 |
+|   1    |      1      | Introduction to Software Engineering | Presentation/Oral | 1 |
+|   1    |      2      | Process Models - Overview | Presentation/Video | 1 | 
+|   1    |      3      | Introduction to Agile Methodology | Activity | 1 |
+|   1    |      4      | Agile Manifesto and Principles    | Activity/Presentation | 1 |
+|   1    |      4      | Lab : Agile Manifesto and Principles | Activity/Presentation | 1 |
+|   1    |      5      | Agile Requirements                | Activity/Presentation | 2 |
+|   1    |      6      | Scrum                             | Activity/Presentation | 1 | 
+|   1    |      6      | Lab : Scrum                       | Exercises | 1 | 
+|   1    |      7      | Sprint and its working            | Activity/Presentation | 2 |
+|   1    |      8      | Scrum Metrics                     | Activity/Presentation | 1 | 
+|   1    |     7,8     | Lab : Scrum & its Metrics         | Exercises | 1 | 
+|   2    |      9      | Introduction to Traditional Models |  Presentation/Oral   | 1 | 
+|   2    |     10      | Waterfall Model                    | Activity/Presentation | 1 |
+|   2    |     11      | Incemental Model                   | Activity/Presentation | 1 |
+|   2    |    10,11    | Lab : Traditional Models            | Exercises | 1 |
+|   2    |     12      | Requirements Engineering           | Activity | 1 |
+|   2    |     13      | Requirements Modelling             | Presentation/Oral | 1 |
+|   2    |     14      | UML Modelling                      | Activity | 2 |
+|   2    |     14      | Lab : UML Modelling                | Exercises | 1 |
+|   2    |     15      | Scenarios Based Models             | Activity | 1 |
+|   2    |     15      | Lab : Scenarios Based Models       | Exercises | 1 |
+|   3    |     16      | Design Engineering                 |  Presentation/Oral  | 1 |
+|   3    |     17      | Software Architecture              |  Presentation/Oral  | 1 |
+|   3    |     18      | User Interface Design and Analysis |  Activity  | 1 |
+|   3    |     18      | Lab : User Interface Design and Analysis |  Exercises  | 1 |
+|   3    |     19      | Testing Strategies and Tactics |  Presentation/Oral  | 1 |
+|   3    |     20      | Unit Testing, Integration Testing, System Testing |  Activity  | 1 |
+|   3    |     20      | Lab : Testing Methods | Exercises  | 1 |
+
+### :green_book: Text and Reference Books
+ - Text: Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
+ - Reference : Crowder JA, Friess S. Agile project management: managing for success. Cham: Springer International Publishing; 2015.
+ - Reference : Stellman A, Greene J. Learning agile: Understanding scrum, XP, lean, and kanban. " O'Reilly Media, Inc."; 2014.
+ - Reference : Gregory J, Crispin L. More agile testing: learning journeys for the whole team. Addison-Wesley Professional; 2014.
+ - Reference : Rubin KS. Essential Scrum: a practical guide to the most popular agile process. Addison-Wesley; 2012.
+ - Reference : Cohn M. User stories applied: For agile software development. Addison-Wesley Professional; 2004.
+
+### :notebook: Materials and Resoruces
+ - [Agile Manifesto](https://resources.scrumalliance.org/Article/key-values-principles-agile-manifesto)
+ - [Scrum Metrics](https://www.atlassian.com/agile/scrum/scrum-metrics)
+ - [UML Diagram Creator](https://online.visual-paradigm.com/diagrams/features/uml-tool/)
+
+
