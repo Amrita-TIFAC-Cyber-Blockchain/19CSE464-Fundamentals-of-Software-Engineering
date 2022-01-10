@@ -16,33 +16,33 @@
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
 |   #    |      0      | Introduction to Course and Lab | Presentation/Oral | 1 |
-|   1    |      1      | Introduction to Software Engineering | Presentation/Oral | 1 |
-|   1    |      2      | Process Models - Overview | Presentation/Video | 1 | 
-|   1    |      3      | Introduction to Agile Methodology | Activity | 1 |
-|   1    |      4      | Agile Manifesto and Principles    | Activity/Presentation | 1 |
+|   1    |      1      | [Introduction to Software Engineering](Software%20Engineering.md) | Presentation/Oral | 1 |
+|   1    |      2      | [Process Models - Overview](Process%20Models.md) | Presentation/Video | 1 | 
+|   1    |      3      | [Introduction to Agile Methodology](Agile%20Methodology.md) | Activity | 1 |
+|   1    |      4      | [Agile Manifesto and Principles](Agile%20Manifesto%20and%20Principles.md) | Activity/Presentation | 1 |
 |   1    |      4      | Lab : Agile Manifesto and Principles | Activity/Presentation | 1 |
-|   1    |      5      | Agile Requirements                | Activity/Presentation | 2 |
-|   1    |      6      | Scrum                             | Activity/Presentation | 1 | 
+|   1    |      5      | [Agile Requirements](Agile%20Requirements.md) | Activity/Presentation | 2 |
+|   1    |      6      | [Scrum](Scrum.md) | Activity/Presentation | 1 | 
 |   1    |      6      | Lab : Scrum                       | Exercises | 1 | 
-|   1    |      7      | Sprint and its working            | Activity/Presentation | 2 |
-|   1    |      8      | Scrum Metrics                     | Activity/Presentation | 1 | 
+|   1    |      7      | [Sprint and its working](Sprint.md) | Activity/Presentation | 2 |
+|   1    |      8      | [Scrum Metrics](Scrum%20Metrics.md) | Activity/Presentation | 1 | 
 |   1    |     7,8     | Lab : Scrum & its Metrics         | Exercises | 1 | 
-|   2    |      9      | Introduction to Traditional Models |  Presentation/Oral   | 1 | 
-|   2    |     10      | Waterfall Model                    | Activity/Presentation | 1 |
-|   2    |     11      | Incemental Model                   | Activity/Presentation | 1 |
+|   2    |      9      | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
+|   2    |     10      | [Waterfall Model](Waterfall%20Model.md) | Activity/Presentation | 1 |
+|   2    |     11      | [Incremental Model](Incremental%20Model.md) | Activity/Presentation | 1 |
 |   2    |    10,11    | Lab : Traditional Models            | Exercises | 1 |
-|   2    |     12      | Requirements Engineering           | Activity | 1 |
-|   2    |     13      | Requirements Modelling             | Presentation/Oral | 1 |
-|   2    |     14      | UML Modelling                      | Activity | 2 |
-|   2    |     14      | Lab : UML Modelling                | Exercises | 1 |
-|   2    |     15      | Scenarios Based Models             | Activity | 1 |
+|   2    |     12      | [Requirements Engineering](Requirements%20Engineering.md) | Activity | 1 |
+|   2    |     13      | [Requirements Modeling](Requirements%20Modelling.md) | Presentation/Oral | 1 |
+|   2    |     14      | [UML Modeling](UML.md)                      | Activity | 2 |
+|   2    |     14      | Lab : UML Modeling                | Exercises | 1 |
+|   2    |     15      | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
 |   2    |     15      | Lab : Scenarios Based Models       | Exercises | 1 |
-|   3    |     16      | Design Engineering                 |  Presentation/Oral  | 1 |
-|   3    |     17      | Software Architecture              |  Presentation/Oral  | 1 |
-|   3    |     18      | User Interface Design and Analysis |  Activity  | 1 |
+|   3    |     16      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
+|   3    |     17      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
+|   3    |     18      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
 |   3    |     18      | Lab : User Interface Design and Analysis |  Exercises  | 1 |
-|   3    |     19      | Testing Strategies and Tactics |  Presentation/Oral  | 1 |
-|   3    |     20      | Unit Testing, Integration Testing, System Testing |  Activity  | 1 |
+|   3    |     19      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
+|   3    |     20      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
 |   3    |     20      | Lab : Testing Methods | Exercises  | 1 |
 
 ### :green_book: Text and Reference Books
