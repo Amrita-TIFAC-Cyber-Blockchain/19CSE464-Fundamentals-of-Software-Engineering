@@ -1,6 +1,6 @@
-# 19CSE464 - Fundamentals of Software Engineering
+# 19CSE464 - Fundamentals of Software Engineering ![](https://img.shields.io/badge/-Live-brightgreen)
 
-### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
+#### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
 ### :books: Course Outcome
 
@@ -44,6 +44,15 @@
 |   3    |     19      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
 |   3    |     20      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
 |   3    |     20      | Lab : Testing Methods | Exercises  | 1 |
+
+### :hammer_and_wrench: Mini-Project
+
+
+
+### Dates and Deadlines
+
+| Course Start | 09 - Feb - 2022 |
+|--------------|-----------------|
 
 ### :green_book: Text and Reference Books
  - Text: Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
