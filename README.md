@@ -15,7 +15,7 @@
 
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
-|   #    |      0      | Introduction to Course and Lab | Presentation/Oral | 1 |
+|   #    |      0      | **Introduction to Course and Lab <br/> Mini-Project Team Formation and Topic Discussion** | Presentation/Oral | 4 |
 |   1    |      1      | [Introduction to Software Engineering](Software%20Engineering.md) | Presentation/Oral | 1 |
 |   1    |      2      | [Process Models - Overview](Process%20Models.md) | Presentation/Video | 1 | 
 |   1    |      3      | [Introduction to Agile Methodology](Agile%20Methodology.md) | Activity | 1 |
@@ -47,12 +47,39 @@
 
 ### :hammer_and_wrench: Mini-Project
 
+| Team Name | Topic | 
+|:---------:|:-----:|
+|   6F3B		  |       |
+|   FA04		  |       |
+|   C94E		  |       |
+|   3D97		  |       |	
+|   4909		  |       |	
+|   4F26		  |       |	
+|   EA9A		  |       |	
+|   219D		  |       |	
+|   80FE		  |       |	
+|   4CCA			 |       |
+|   77AD		  |       |	
+|   9C62		  |       |	
+|       		  |       |
 
+### Evaluation Criteria
+
+| Components | Marks |
+|:----------|:-----:|
+| **[Internal][CA-P]** Lab 1 - 5 | 10 |
+| **[Internal][CA-P]** Mini-Project Report | 10 |
+| **[Internal][CA-T]** Seminar | 10 |
+| **[Internal][CA-T]** Monthly Quiz | 10 |
+| **[Internal]** Periodicals/Mid-Term Exam | 30 |
+| **[External]** End-Semester Exam | 30 |
 
 ### Dates and Deadlines
 
 | Course Start | 09 - Feb - 2022 |
 |--------------|-----------------|
+| Team Formation | 13 - Feb - 2022 |
+| Topic Selection | 28 - Feb - 2022 |
 
 ### :green_book: Text and Reference Books
  - Text: Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
