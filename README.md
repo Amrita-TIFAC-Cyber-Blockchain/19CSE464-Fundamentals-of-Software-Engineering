@@ -1,4 +1,5 @@
 # 19CSE464 - Fundamentals of Software Engineering ![](https://img.shields.io/badge/-Live-brightgreen)
+![](https://img.shields.io/badge/Batch-19CCE-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-FoSE-blue)
 
 #### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
@@ -16,7 +17,7 @@
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
 |   #    |      0      | **Introduction to Course and Lab <br/> Mini-Project Team Formation and Topic Discussion** | Presentation/Oral | 4 |
-|   1    |      1      | [Introduction to Software Engineering](Software%20Engineering.md) | Presentation/Oral | 1 |
+|   1    |      1      | [**Introduction to Software Engineering**](Software%20Engineering.md) | Presentation/Oral | 2 |
 |   1    |      2      | [Process Models - Overview](Process%20Models.md) | Presentation/Video | 1 | 
 |   1    |      3      | [Introduction to Agile Methodology](Agile%20Methodology.md) | Activity | 1 |
 |   1    |      4      | [Agile Manifesto and Principles](Agile%20Manifesto%20and%20Principles.md) | Activity/Presentation | 1 |
@@ -59,9 +60,9 @@
 |   219D		  |       |	
 |   80FE		  |       |	
 |   4CCA			 |       |
-|   77AD		  |       |	
+|   B2F5		  |       |	
 |   9C62		  |       |	
-|       		  |       |
+|   8E2D    |       |
 
 ### Evaluation Criteria
 
@@ -78,20 +79,21 @@
 
 | Course Start | 09 - Feb - 2022 |
 |--------------|-----------------|
-| Team Formation | 13 - Feb - 2022 |
+| **Team Formation** | **13 - Feb - 2022** |
 | Topic Selection | 28 - Feb - 2022 |
+| Periodical 1 | 14 - Mar - 2022 |
+| Periodical 2 | 25 - Apr - 2022 |
+| Course Completion | 06 - Jun - 2022 |
 
 ### :green_book: Text and Reference Books
- - Text: Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
- - Reference : Crowder JA, Friess S. Agile project management: managing for success. Cham: Springer International Publishing; 2015.
- - Reference : Stellman A, Greene J. Learning agile: Understanding scrum, XP, lean, and kanban. " O'Reilly Media, Inc."; 2014.
- - Reference : Gregory J, Crispin L. More agile testing: learning journeys for the whole team. Addison-Wesley Professional; 2014.
- - Reference : Rubin KS. Essential Scrum: a practical guide to the most popular agile process. Addison-Wesley; 2012.
- - Reference : Cohn M. User stories applied: For agile software development. Addison-Wesley Professional; 2004.
+ - **Text:** Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
+ - **Reference :** Crowder JA, Friess S. Agile project management: managing for success. Cham: Springer International Publishing; 2015.
+ - **Reference :** Stellman A, Greene J. Learning agile: Understanding scrum, XP, lean, and kanban. " O'Reilly Media, Inc."; 2014.
+ - **Reference :** Gregory J, Crispin L. More agile testing: learning journeys for the whole team. Addison-Wesley Professional; 2014.
+ - **Reference :** Rubin KS. Essential Scrum: a practical guide to the most popular agile process. Addison-Wesley; 2012.
+ - **Reference :** Cohn M. User stories applied: For agile software development. Addison-Wesley Professional; 2004.
 
 ### :notebook: Materials and Resoruces
  - [Agile Manifesto](https://resources.scrumalliance.org/Article/key-values-principles-agile-manifesto)
  - [Scrum Metrics](https://www.atlassian.com/agile/scrum/scrum-metrics)
  - [UML Diagram Creator](https://online.visual-paradigm.com/diagrams/features/uml-tool/)
-
-
