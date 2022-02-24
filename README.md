@@ -17,7 +17,8 @@
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
 | **#**  |    **0**    | **Introduction to Course and Lab <br/> Mini-Project Team Formation and Topic Discussion** | **Presentation/Oral** | **4** |
-| **1**  |    **1**    | [**Introduction to Software Engineering**](Software%20Engineering.md) | **Presentation/Oral/Activity** | **3** |
+| **1**  |    **1**    | [**Introduction to Software Engineering**](Software%20Engineering.md) | **Presentation/Oral** | **2** |
+| **1**  |    **1**    | [**Introduction to Software Engineering - Activity**](Software%20Engineering-Activity.md) | **Activity** | **4** |
 |   1    |      2      | [Process Models - Overview](Process%20Models.md) | Presentation/Video | 1 | 
 |   1    |      3      | [Introduction to Agile Methodology](Agile%20Methodology.md) | Activity | 1 |
 |   1    |      4      | [Agile Manifesto and Principles](Agile%20Manifesto%20and%20Principles.md) | Activity/Presentation | 1 |
