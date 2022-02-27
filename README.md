@@ -51,19 +51,19 @@
 
 | Team Name | Topic | 
 |:---------:|:-----:|
-|   6F3B		  |       |
-|   FA04		  |       |
-|   C94E		  |       |
-|   3D97		  |       |	
-|   4909		  |       |	
-|   4F26		  |       |	
-|   EA9A		  |       |	
-|   219D		  |       |	
-|   80FE		  |       |	
-|   4CCA			 |       |
-|   B2F5		  |       |	
-|   9C62		  |       |	
-|   8E2D    |       |
+|   6F3B		  |   Cyber Offenders Reporting Portal for Social Media    |
+|   FA04		  |   CryptoGame    |
+|   C94E		  |   Tourist Management System    |
+|   3D97		  |   Digital Ticketing System for Buses    |	
+|   4909		  |   ML based Movie Recommender System    |	
+|   4F26		  |   Library Management System   |	
+|   EA9A		  |   Bank Management System    |	
+|   219D		  |   Online Examination Management System    |	
+|   80FE		  |   Hospital Management System     |	
+|   4CCA			 |   Privacy enabled Digital Identity    |
+|   B2F5		  |   Canteen Automation System     |	
+|   9C62		  |   3D Visualizer for Constructions    |	
+|   8E2D    |   ML based Predictive Electronic Health Record System    |
 
 ### Evaluation Criteria
 
@@ -81,7 +81,7 @@
 | Course Start | 09 - Feb - 2022 |
 |--------------|-----------------|
 | **Team Formation** | **13 - Feb - 2022** |
-| Topic Selection | 28 - Feb - 2022 |
+| **Topic Selection** | **28 - Feb - 2022** |
 | Periodical 1 | 14 - Mar - 2022 |
 | Periodical 2 | 25 - Apr - 2022 |
 | Course Completion | 06 - Jun - 2022 |
