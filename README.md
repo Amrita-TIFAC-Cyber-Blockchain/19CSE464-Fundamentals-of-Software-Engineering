@@ -21,13 +21,14 @@
 | **1**  |    **1**    | [**Introduction to Software Engineering - Activity**](Software%20Engineering-Activity.md) | **Activity** | **4** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 | **1**  |    **2**    | [**Process Models - Overview**](Process%20Models.md) | **Presentation** | **2** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) | 
 | **1**  |    **2**    | ![](https://img.shields.io/badge/-Activity-darkblue) **Planning** | **Activity** | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
-|   1    |      3      | [Introduction to Agile Methodology](Agile%20Methodology.md) | Activity | 1 |
-|   1    |      4      | [Agile Manifesto and Principles](Agile%20Manifesto%20and%20Principles.md) | Presentation | 1 |
-|   1    |      4      | ![](https://img.shields.io/badge/-Activity-darkblue) Agile Manifesto and Principles | Presentation | 1 |
-|   1    |      5      | [Agile Requirements](Agile%20Requirements.md) | Presentation | 2 |
+| **1** |    **3**    | [**Introduction to Agile Methodology**](Agile%20Methodology.md) | **Presentation** | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **1**  |    **4**    | [**Agile Manifesto and Principles**](Agile%20Manifesto%20and%20Principles.md) | **Presentation** | **1** <br/>![](https://img.shields.io/badge/-Completed-darkgreen)|
+| **1**  |    **4**    | ![](https://img.shields.io/badge/-Activity-darkblue) Agile Manifesto and Principles | Presentation | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **1**  |    **5**    |  [**Agile Requirements - User Stories**](Agile%20Requirements.md) | Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **1**  |    **5**    | ![](https://img.shields.io/badge/-Activity-darkblue) [**Agile Requirements - User Stories**](Agile%20Requirements.md) | Activity | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 |   1    |      6      | [Scrum](Scrum.md) | Activity/Presentation | 1 | 
-|   1    |      6      | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum | Exercises | 1 | 
 |   1    |      7      | [Sprint and its working](Sprint.md) | Presentation | 2 |
+| **Mid-Term Exam Portions Completed** | | 
 |   1    |      8      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
 |   1    |     7,8     | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum & its Metrics | Exercises | 1 | 
 |   2    |      9      | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
