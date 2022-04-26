@@ -26,28 +26,27 @@
 | **1**  |    **4**    | ![](https://img.shields.io/badge/-Activity-darkblue) Agile Manifesto and Principles | Presentation | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 | **1**  |    **5**    |  [**Agile Requirements - User Stories**](Agile%20Requirements.md) | Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 | **1**  |    **5**    | ![](https://img.shields.io/badge/-Activity-darkblue) [**Agile Requirements - User Stories**](Agile%20Requirements.md) | Activity | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
-|   1    |      6      | [Scrum](Scrum.md) | Activity/Presentation | 1 | 
-|   1    |      7      | [Sprint and its working](Sprint.md) | Presentation | 2 |
-| **Mid-Term Exam Portions Completed** | | 
-|   1    |      8      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
-|   1    |     7,8     | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum & its Metrics | Exercises | 1 | 
-|   2    |      9      | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
-|   2    |     10      | [Waterfall Model](Waterfall%20Model.md) | Presentation | 1 |
-|   2    |     11      | [Incremental Model](Incremental%20Model.md) | Presentation | 1 |
-|   2    |    10,11    | ![](https://img.shields.io/badge/-Activity-darkblue) Traditional Models | Exercises | 1 |
-|   2    |     12      | [Requirements Engineering](Requirements%20Engineering.md) | Activity | 1 |
-|   2    |     13      | [Requirements Modeling](Requirements%20Modelling.md) | Presentation/Oral | 1 |
-|   2    |     14      | [UML Modeling](UML.md)                      | Activity | 2 |
-|   2    |     14      | ![](https://img.shields.io/badge/-Activity-darkblue) UML Modeling | Exercises | 1 |
-|   2    |     15      | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
-|   2    |     15      | ![](https://img.shields.io/badge/-Activity-darkblue) Scenarios Based Models | Exercises | 1 |
-|   3    |     16      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
-|   3    |     17      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
-|   3    |     18      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
-|   3    |     18      | ![](https://img.shields.io/badge/-Activity-darkblue) User Interface Design and Analysis |  Exercises  | 1 |
-|   3    |     19      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
-|   3    |     20      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
-|   3    |     20      |![](https://img.shields.io/badge/-Activity-darkblue) Testing Methods | Exercises  | 1 |
+| **1**  |    **6**    | [**Scrum Process**](Scrum.md) | Activity/Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)| 
+| **1**  |    **6**    | [**Sprint and its working**](Sprint.md) | Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| > **Mid-Term Exam Portions Completed** |
+|   2    |             | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
+|   2    |             | [Waterfall Model](Waterfall%20Model.md) | Seminar | 1 |
+|   2    |             | [Incremental Model](Incremental%20Model.md) | Seminar | 1 |
+|   2    |     7, 8    | [Requirements Engineering](Requirements%20Engineering.md) | Presentation | 2 |
+|   2    |     9       | [Requirements Modeling](Requirements%20Modelling.md) |  | 1 |
+|   2    |     10      | [UML Modeling](UML.md)                      | Presentation | 1 |
+|   2    |             | ![](https://img.shields.io/badge/-Activity-darkblue) UML Modeling | Exercises | 1 |
+|   2    |     11      | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
+|   2    |             | ![](https://img.shields.io/badge/-Activity-darkblue) Scenarios Based Models | Exercises | 1 |
+|   3    |     12      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
+|   3    |     13      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
+|   3    |     14      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
+|   3    |             | ![](https://img.shields.io/badge/-Activity-darkblue) User Interface Design and Analysis |  Exercises  | 1 |
+|   3    |     15      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
+|   3    |     16      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
+|   3    |             |![](https://img.shields.io/badge/-Activity-darkblue) Testing Methods | Exercises  | 1 |
+|   1    |     17      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
+|   1    |             | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum & its Metrics | Exercises | 1 | 
 
 ### :hammer_and_wrench: Mini-Project
 
