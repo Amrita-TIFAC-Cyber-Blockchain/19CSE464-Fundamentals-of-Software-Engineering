@@ -32,39 +32,39 @@
 |   2    |             | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
 |   2    |             | [Waterfall Model](Waterfall%20Model.md) | Seminar | 1 |
 |   2    |             | [Incremental Model](Incremental%20Model.md) | Seminar | 1 |
-|   2    |     7, 8    | [Requirements Engineering](Requirements%20Engineering.md) | Presentation | 2 |
-|   2    |     9       | [Requirements Modeling](Requirements%20Modelling.md) |  | 1 |
-|   2    |     10      | [UML Modeling](UML.md)                      | Presentation | 1 |
+| **2**  |     7       | [**Requirements Engineering**](Requirements%20Engineering.md) | **Presentation** | **2**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **2**  |     7       | ![](https://img.shields.io/badge/-Activity-darkblue) (Requirements%20Engineering.md) | **Activity** | **2**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **2**  |     8       | [**Requirements Modeling**](Requirements%20Modelling.md) | **Presentation**  | **1**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **2**  |     9       | [**UML Modeling**](UML.md)                      | **Presentation** | 1 |
 |   2    |             | ![](https://img.shields.io/badge/-Activity-darkblue) UML Modeling | Exercises | 1 |
-|   2    |     11      | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
-|   2    |             | ![](https://img.shields.io/badge/-Activity-darkblue) Scenarios Based Models | Exercises | 1 |
-|   3    |     12      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
-|   3    |     13      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
-|   3    |     14      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
+|   2    |     9       | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
+|   3    |     10      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
+|   3    |     11      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
+|   3    |     12      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
 |   3    |             | ![](https://img.shields.io/badge/-Activity-darkblue) User Interface Design and Analysis |  Exercises  | 1 |
-|   3    |     15      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
-|   3    |     16      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
+|   3    |     13      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
+|   3    |     14      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
 |   3    |             |![](https://img.shields.io/badge/-Activity-darkblue) Testing Methods | Exercises  | 1 |
-|   1    |     17      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
+|   1    |     15      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
 |   1    |             | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum & its Metrics | Exercises | 1 | 
 
 ### :hammer_and_wrench: Mini-Project
 
 | Team Name | Topic | 
 |:---------:|:-----:|
-|   6F3B		  |   Cyber Offenders Reporting Portal for Social Media    |
-|   FA04		  |   CryptoGame    |
-|   C94E		  |   Tourist Management System    |
-|   3D97		  |   Digital Ticketing System for Buses    |	
-|   4909		  |   ML based Movie Recommender System    |	
-|   4F26		  |   Library Management System   |	
-|   EA9A		  |   Bank Management System    |	
-|   219D		  |   Online Examination Management System    |	
-|   80FE		  |   Hospital Management System     |	
-|   4CCA			 |   Privacy enabled Digital Identity    |
-|   B2F5		  |   Canteen Automation System     |	
-|   9C62		  |   3D Visualizer for Constructions    |	
-|   8E2D    |   ML based Predictive Electronic Health Record System    |
+| [6F3B](6F3B) | Cyber Offenders Reporting Portal for Social Media |
+| [FA04](FA04)	| CryptoGame |
+| [C94E](C94E)	| Tourist Management System |
+| [3D97](3D97)	| Digital Ticketing System for Buses |	
+| [4909](4909)	| ML based Movie Recommender System |	
+| [4F26](4F26)	| Library Management System |	
+| [EA9A](EA9A)	| Bank Management System |	
+| [219D](219D)	| Online Examination Management System |	
+| [80FE](80FE)	| Hospital Management System |	
+| [4CCA](4CCA)	| Privacy enabled Digital Identity |
+| [B2F5](B2F5)	| Canteen Automation System |	
+| [9C62](9C62)	| 3D Visualizer for Constructions |	
+| [8E2D](8E2D) | ML based Predictive Electronic Health Record System |
 
 ### Evaluation Criteria
 
@@ -83,8 +83,9 @@
 |--------------|-----------------|
 | **Team Formation** | **13 - Feb - 2022** |
 | **Topic Selection** | **28 - Feb - 2022** |
-| Mid-Term Exam | 31 - Mar - 2022 |
-| Course Completion | 06 - Jun - 2022 |
+| **Mid-Term Exam** | 31 - Mar - 2022 |
+| Course Completion | 19 - May - 2022 |
+| End Semester Exam | 30 - May - 2022 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
