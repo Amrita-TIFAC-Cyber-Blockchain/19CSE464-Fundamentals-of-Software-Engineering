@@ -28,25 +28,24 @@
 | **1**  |    **5**    | ![](https://img.shields.io/badge/-Activity-darkblue) [**Agile Requirements - User Stories**](Agile%20Requirements.md) | Activity | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 | **1**  |    **6**    | [**Scrum Process**](Scrum.md) | Activity/Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)| 
 | **1**  |    **6**    | [**Sprint and its working**](Sprint.md) | Presentation | **1** <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
-| > **Mid-Term Exam Portions Completed** |
-|   2    |             | [Introduction to Traditional Models](Traditional%20Models.md) |  Presentation/Oral   | 1 | 
-|   2    |             | [Waterfall Model](Waterfall%20Model.md) | Seminar | 1 |
-|   2    |             | [Incremental Model](Incremental%20Model.md) | Seminar | 1 |
+| | | **Mid-Term Exam Portions Completed** | | | 
 | **2**  |     7       | [**Requirements Engineering**](Requirements%20Engineering.md) | **Presentation** | **2**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
-| **2**  |     7       | ![](https://img.shields.io/badge/-Activity-darkblue) (Requirements%20Engineering.md) | **Activity** | **2**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **2**  |     7       | ![](https://img.shields.io/badge/-Activity-darkblue) [Requirements Engineering](Requirements%20Engineering.md) | **Activity** | **2**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
 | **2**  |     8       | [**Requirements Modeling**](Requirements%20Modelling.md) | **Presentation**  | **1**  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
-| **2**  |     9       | [**UML Modeling**](UML.md)                      | **Presentation** | 1 |
-|   2    |             | ![](https://img.shields.io/badge/-Activity-darkblue) UML Modeling | Exercises | 1 |
-|   2    |     9       | [Scenarios Based Models](Scenarios%20Based%20Models.md) | Activity | 1 |
-|   3    |     10      | [Design Engineering](Design%20Engineering.md) |  Presentation/Oral  | 1 |
-|   3    |     11      | [Software Architecture](Software%20Architecture.md) |  Presentation/Oral  | 1 |
-|   3    |     12      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  Activity  | 1 |
-|   3    |             | ![](https://img.shields.io/badge/-Activity-darkblue) User Interface Design and Analysis |  Exercises  | 1 |
-|   3    |     13      | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  Presentation/Oral  | 1 |
-|   3    |     14      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  Activity  | 1 |
-|   3    |             |![](https://img.shields.io/badge/-Activity-darkblue) Testing Methods | Exercises  | 1 |
-|   1    |     15      | [Scrum Metrics](Scrum%20Metrics.md) | Presentation | 1 | 
-|   1    |             | ![](https://img.shields.io/badge/-Activity-darkblue) Scrum & its Metrics | Exercises | 1 | 
+| **2**  |     8       | [**UML Modeling**](UML.md)                      | **Presentation** | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **2**  |     8       | ![](https://img.shields.io/badge/-Activity-darkblue) UML Modeling | **Exercises** | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **3** |     9       | [Testing Strategies and Tactics](Testing%20Strategies%20and%20Tactics.md) |  **Presentation/Oral**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **3**  |     9      | [Unit Testing, Integration Testing, System Testing](Testing.md) |  **Activity**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **3**  |     9       |![](https://img.shields.io/badge/-Activity-darkblue) Testing Methods | **Exercises**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **3**  |     10      | [User Interface Design and Analysis](User%20Interface%20Design%20and%20Analysis.md) |  **Activity**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **3**  |     10      | ![](https://img.shields.io/badge/-Activity-darkblue) User Interface Design and Analysis |  **Exercises**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen)  |
+| **3**  |     11      | [Design Engineering](Design%20Engineering.md) |  **Presentation/Oral**  | 1  <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **3**  |     11      | [Software Architecture](Software%20Architecture.md) |  **Presentation/Oral**  | 1 <br/> ![](https://img.shields.io/badge/-Completed-darkgreen) |
+| **1**  |             | [Scrum Metrics](Scrum%20Metrics.md) | Self Learning |  | 
+|   2    |             | [Introduction to Traditional Models](Traditional%20Models.md) |  Seminar  |  | 
+|   2    |             | [Waterfall Model](Waterfall%20Model.md) | Seminar |  |
+|   2    |             | [Incremental Model](Incremental%20Model.md) | Seminar |  |
+
 
 ### :hammer_and_wrench: Mini-Project
 
@@ -81,10 +80,10 @@
 
 | Course Start | 09 - Feb - 2022 |
 |--------------|-----------------|
-| **Team Formation** | **13 - Feb - 2022** |
+| **Team Formation**  | **13 - Feb - 2022** |
 | **Topic Selection** | **28 - Feb - 2022** |
-| **Mid-Term Exam** | 31 - Mar - 2022 |
-| Course Completion | 19 - May - 2022 |
+| **Mid-Term Exam**   | **31 - Mar - 2022** |
+| **Course Completion** | **19 - May - 2022** |
 | End Semester Exam | 30 - May - 2022 |
 
 ### :green_book: Text and Reference Books
