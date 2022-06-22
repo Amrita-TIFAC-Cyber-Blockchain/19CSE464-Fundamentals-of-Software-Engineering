@@ -69,12 +69,10 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA-P]** Activity 1 - 5 | 10 |
-| **[Internal][CA-P]** Mini-Project Report | 10 |
-| **[Internal][CA-T]** Seminar | 10 |
+| **[Internal][CA-P]** Activity | 10 |
 | **[Internal][CA-T]** Monthly Quiz | 10 |
 | **[Internal]** Mid-Term Exam | 30 |
-| **[External]** End-Semester Exam | 30 |
+| **[External]** End-Semester Exam | 50 |
 
 ### Dates and Deadlines
 
@@ -84,7 +82,7 @@
 | **Topic Selection** | **28 - Feb - 2022** |
 | **Mid-Term Exam**   | **31 - Mar - 2022** |
 | **Course Completion** | **19 - May - 2022** |
-| End Semester Exam | 30 - May - 2022 |
+| **End Semester Exam** | **30 - May - 2022** |
 
 ### :green_book: Text and Reference Books
  - **Text:** Pressman R S, Bruce R.Maxim. Software engineering - A Practitioner’s Approach, Eighth Edition, Tata McGrawHill, 2014.
@@ -94,7 +92,7 @@
  - **Reference :** Rubin KS. Essential Scrum: a practical guide to the most popular agile process. Addison-Wesley; 2012.
  - **Reference :** Cohn M. User stories applied: For agile software development. Addison-Wesley Professional; 2004.
 
-### :notebook: Materials and Resoruces
+### :notebook: Materials and Resources
  - [Agile Manifesto](https://resources.scrumalliance.org/Article/key-values-principles-agile-manifesto)
  - [Scrum Metrics](https://www.atlassian.com/agile/scrum/scrum-metrics)
  - [UML Diagram Creator](https://online.visual-paradigm.com/diagrams/features/uml-tool/)
